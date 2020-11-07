@@ -1,0 +1,271 @@
+body{
+
+    width: 500px;
+    
+}
+.rona{
+    height: 1500px;
+}
+.sticky
+{
+    position: fixed; 
+    background-color:red;
+    width: 200px;
+    height: 1000px;
+    left:0.1px;
+    top :0.1px;
+  
+    
+}
+.name{
+    position : relative ;
+    color: white;
+    left:10px ;
+    top :60px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.first{
+    position: relative;
+ right:20px;
+ top:20px;
+  font-size: 60px ;
+ margin-left: 20px;
+ 
+ 
+}
+.other{
+   
+        position: relative;
+     left:230px;
+     top:20px;
+}
+.list{ position: relative;
+   top:75px ;
+   left : 10px;
+   
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+li:hover{
+    background-color: white;
+    color: black;
+}
+h3{color:red;
+  border-style: none none solid none ;
+  border-width: 10px;
+ width: 40px;
+ 
+ 
+font-size: 40px;}
+.atrium{
+    position: relative;
+   left:630px;
+   bottom:500px;
+}
+.living{position: relative;
+    bottom:500px;
+}
+.bed{
+   
+        position: relative;
+       left:630px;
+       bottom:835px;
+          }
+.din{
+   
+   
+        position: relative;
+       
+       bottom:835px;}
+       .love{
+   
+        position: relative;
+       left:630px;
+       bottom:1170px;
+          }
+.marina{
+    position: relative;
+    bottom: 1150px;
+}
+.suz{
+    position: relative;
+    bottom : 1170px;
+    width :1000px; font-size: 20px;
+
+
+}
+.soso{
+    position : relative ;
+    bottom : 1168px;
+    width: 1000px;
+    font-size: 20px;
+
+ }
+.amour{position: relative;
+bottom :1150px;}
+.roma{position: relative;
+    bottom :1170px;
+    width:1010px;
+    font-size: 20px;
+
+}
+.atef{position: relative;
+    bottom :1170px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.phelo{
+    position: relative;
+    bottom:1170px;
+}
+.suger{position: relative;
+    bottom:1200px;
+    background-color: rgb(238, 227, 227);
+    width : 400px;
+    height : 200px;
+
+}
+.john{position: relative;
+    left : 20px;
+    top:10px;
+    font-size: 25px;
+}
+.x{ color :rgb(83, 81, 81) ;
+position: relative;
+left: 20px;}
+.y{ position: relative;
+    left: 20px;
+width :250px;}
+.z{position: relative;
+    bottom:1665px;
+    left:420px;
+}
+.a{position: relative;
+    bottom:1694px;
+    left:420px;
+    background-color: rgb(238, 227, 227);
+    width : 400px;
+    height : 200px;
+}
+.b{position: relative;
+    left : 20px;
+    top:10px;
+    font-size: 25px;
+}
+.c{
+    color :rgb(83, 81, 81) ;
+position: relative;
+left: 20px;
+}
+.d{position: relative;
+    left: 20px;
+width :250px;
+}
+.e{
+    position: relative;
+    bottom:444px;
+    left:420px;
+}
+.f{position: relative;
+    bottom:1919px;
+    left:840px;
+    background-color: rgb(238, 227, 227);
+    width : 400px;
+    height : 200px;}
+    .g{position: relative;
+        left : 20px;
+        top:10px;
+        font-size: 25px;}
+        .h{    color :rgb(83, 81, 81) ;
+            position: relative;
+            left: 20px;}
+.i{position: relative;
+    left: 20px;
+    bottom: 10px;
+width :250px;}            
+.helo{position: relative;
+bottom: 1830px;}
+.j{position: relative;
+    font-size: 20px ;
+    bottom :1840px;
+    width:1000px;
+}
+table,th,td{ 
+    border: 1px solid gray;
+    border-collapse:collapse;
+    font-size: 20px;
+}
+table{width:580px;
+height: 650px;
+position: relative; bottom: 1840px;}
+.t1{color:grey ; font-size:20px}
+.k{ font-size: 30px;
+}
+table#t01  {
+  background-color:rgb(238, 227, 227);
+}
+.l{background-color: rgb(75, 73, 73); color:white;}
+ .m{ position: relative;
+    left : 220px;
+      background-color: white;
+width: 145px;
+height: 45px;}
+h2:hover{
+    background-color: black;
+    color: white;
+}
+.n{background-color: red; color:white;}
+table#t02  { position: relative;
+    left:500px;
+          background-color:rgb(238, 227, 227);}
+    .p{ position: relative;
+        left : 220px;
+          background-color: red;
+    width: 145px;
+    height: 45px;
+color:white;
+font-size: 25px;}
+    h4:hover{
+        background-color: black;
+        
+    }
+    .q{
+        position: relative;
+        bottom: 650px;
+        left:140px;
+    }
+    .r{
+        position: relative;
+        bottom: 2460px;
+    }
+    .s{
+        position: relative;
+        bottom: 2477px;
+        font-size:20px ;
+        width: 1000px;
+    }
+    .mohra{
+        
+        position: relative;
+        bottom: 2477px;
+        
+    }
+    .v{width: 1220px;
+    height: 30px;}
+    .ruk{  position: relative;
+        bottom: 2490px;
+        font-size: 20px;
+        background-color: red;
+        text-align: center;
+color: white;
+width:1225px;
+height: 40px;
+    }
+    h5:hover{
+        background-color: grey;
+color: black;
+            }
